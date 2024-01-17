@@ -1,7 +1,4 @@
 spring:
   application:
     name:CONFIG-SERVER
-server:
-  servlet:
-    session:
-      timeout: 1m
+
